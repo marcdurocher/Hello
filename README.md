@@ -1,0 +1,2 @@
+# Hello
+Dummy Scala Project
